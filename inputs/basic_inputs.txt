@@ -1,0 +1,9 @@
+PLACE_SHIP Destroyer right A1
+PLACE_SHIP Carrier down B2
+PLACE_SHIP Battleship down C4
+PLACE_SHIP Submarine right E6
+PLACE_SHIP Cruiser right H1
+FIRE C4
+FIRE B7
+FIRE B3
+FIRE H1
