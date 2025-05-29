@@ -9,6 +9,8 @@ https://en.wikipedia.org/wiki/Battleship_(game)
 
 Instead of a two-player version of the game this project is instead to implement a single player CLI version that accepts input files and produces the expected output as described below.
 
+*To run this project see the [src/README.md](https://github.com/courington/battleship/tree/main/src#readme)*
+
 ### Board
 
 ```text
